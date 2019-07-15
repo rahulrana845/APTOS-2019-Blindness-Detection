@@ -1,10 +1,10 @@
 ##                               APTOS-2019-Blindness-Detection
 
 [Competition link](https://www.kaggle.com/c/aptos2019-blindness-detection/overview)               
- 
-Imagine being able to detect blindness before it happened.    <p align="center">
-  <img src="https://storage.googleapis.com/kaggle-media/competitions/aravind" height="150" width="150" title="hover text">
-</p>                
+
+Imagine being able to detect blindness before it happened.  
+
+
 Millions of people suffer from [diabetic retinopathy](https://nei.nih.gov/health/diabetic/retinopathy),
 the leading cause of blindness among working aged adults. Aravind Eye Hospital in India hopes to detect
 and prevent this disease among people living in rural areas where medical screening is difficult to conduct. 
